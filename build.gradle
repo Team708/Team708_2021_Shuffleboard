@@ -12,7 +12,7 @@ plugins {
     id 'java-library'
 }
 
-ext.FRC_YEAR = "2020"
+ext.FRC_YEAR = "2019"
 
 
 repositories {

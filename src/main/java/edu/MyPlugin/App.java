@@ -9,7 +9,7 @@ import edu.wpi.first.shuffleboard.api.plugin.Plugin;
 import edu.wpi.first.shuffleboard.api.widget.ComponentType;
 import edu.wpi.first.shuffleboard.api.widget.WidgetType;
 
-@Description(group = "Team708_2021_Shuffleboard", name = "Plugin", summary = "plugin for 2021", version = "1.0.0")
+@Description(group = "Team708_2022_Shuffleboard", name = "Plugin", summary = "plugin for 2022", version = "1.0.0")
 public class App extends Plugin {
 	@Override
 	@SuppressWarnings("all")
